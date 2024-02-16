@@ -1,4 +1,6 @@
 # TODO
 
-- Atualizar dependencias do projeto
 - Atualizar Pagina Home
+- Novas Features
+  - X
+  - Y
